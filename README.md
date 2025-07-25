@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sanjai C</h1>
-<h3 align="center">MS in Bioinformatics & Immunobiology | Amrita Vishwa Vidyapeetham | University of Arizona  A</h3>
+<h3 align="center">MS in Bioinformatics & Immunobiology | Amrita Vishwa Vidyapeetham | University of Arizona  </h3>
 
 <p align="center">
   🔬 Researching cfDNA, miRNA, Cancer Detection, and AI for Precision Medicine  
